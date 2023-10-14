@@ -1,4 +1,4 @@
-# movies_fastapi
+# movies_api
 
 ## About
 
@@ -14,5 +14,3 @@
 
 - run locally on server : uvicorn app.main:app --reload
 - run streamlit : cd frontend/ streamlit run streamlit.py
-# movies-api
-# movies-api
